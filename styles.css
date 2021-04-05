@@ -1,0 +1,34 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+}
+
+.click-section {
+    width: 45vw;
+    height: 10vh;
+    margin: 20px;
+    font-family: 'Trocchi', serif; 
+    font-size: large; 
+    font-weight: normal;
+    border: 0px;
+    background-color: #1daecf;
+    border-radius: 20px;
+}
+
+.click-section:hover {
+    box-shadow: 3px 5px 10px;
+}
+
+.side {
+    width: 50%;
+}
+
+#left-side {
+    float: left;
+}
+#right-side {
+    float: left;
+}
